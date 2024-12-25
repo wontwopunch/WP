@@ -1,4 +1,4 @@
-# WP(WordPress)
+# WP
 
 ## 워드프레스 입문
   - 로컬 개발 환경 구축 (Local by Flywheel)
